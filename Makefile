@@ -11,5 +11,5 @@ setup:
 	@npm -g i bash-obfuscate
 	@npm install .
 	@echo "[+] paket berhasil di setup"
-Run:
+run:
 	@bash run.sh
