@@ -9,7 +9,6 @@ setup:
 	@gem install lolcat
 	@npm -g i chalk chalk-animation
 	@npm -g i bash-obfuscate
-	@npm install .
 	@echo "[+] paket berhasil di setup"
 run:
 	@bash run.sh
