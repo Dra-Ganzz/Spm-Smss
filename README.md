@@ -20,8 +20,8 @@ git clone https://github.com/Dra-Ganzz/Spm-Smss
 cd Spm-Smss
 pip install -r requirements.txt
 git pull
-make setup
-make Run
+chmod +x run
+./run
 ```
 
 `jalan Script`
