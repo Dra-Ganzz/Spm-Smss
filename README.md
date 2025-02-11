@@ -39,8 +39,11 @@ sudo apt install git jq nodejs
 sudo apt install python3-pip
 pip install rich
 pip install rich-cli
+sudo apt install python3-venv
+sudo apt install curl wget -y
 git clone https://github.com/Dra-Ganzz/Spm-Smss
 cd Spm-Smss
+sudo apt install python3-venv
 pip install -r requirements.txt
 python run.py
 ```
