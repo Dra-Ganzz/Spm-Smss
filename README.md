@@ -29,7 +29,7 @@ make Run
 cd Spm-Smss 
 ls
 git pull
-bash run.sh
+make run
 ```
 
 # `Install Linux`
