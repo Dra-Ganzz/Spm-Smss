@@ -11,8 +11,5 @@ setup:
 	@npm -g i bash-obfuscate
 	@npm install .
 	@echo "[+] paket berhasil di setup"
-id:
-	@echo "[?] id termux:"
-	@bash -c "id"
 Run:
-	@bash app.enc
+	@bash run.sh
