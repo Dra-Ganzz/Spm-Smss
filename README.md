@@ -12,6 +12,7 @@ Script Spam Sms Terbaru 2025 😘 || Spam 24 Jam Nonstop
 
 ```python
 pkg update && pkg upgrade
+pkg install curl wget -y
 pkg install python
 pkg install python-pip
 pkg install git
