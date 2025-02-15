@@ -2,6 +2,7 @@ requests
 bs4
 colorama
 beautifulsoup4
+psutil
 rich
 fake_useragent
 datetime
