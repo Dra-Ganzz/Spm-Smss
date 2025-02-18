@@ -11,4 +11,4 @@ setup:
 	@npm -g i bash-obfuscate
 	@echo "[+] paket berhasil di setup"
 run:
-	@bash run.sh
+	@python run.py
