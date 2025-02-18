@@ -20,8 +20,8 @@ git clone https://github.com/Dra-Ganzz/Spm-Smss
 cd Spm-Smss
 pip install -r requirements.txt
 git pull
-chmod +x run
-./run
+make setup
+make run
 ```
 
 `jalan Script`
@@ -46,5 +46,6 @@ git clone https://github.com/Dra-Ganzz/Spm-Smss
 cd Spm-Smss
 sudo apt install python3-venv
 pip install -r requirements.txt
-bash run.sh
+make setup
+make run
 ```
