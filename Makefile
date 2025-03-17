@@ -11,7 +11,7 @@ install:
 	apt-get install python python-pip nano
 	apt-get install clang ncurses-utils xh
 	apt-get install ossp-uuid openssl openssl-tool
-	python -m pip install -r Data/requirements.txt
+	python -m pip install -r requirements.txt
 	@npm -g i bash-obfuscate
 	@gem install lolcat
 	@clear
