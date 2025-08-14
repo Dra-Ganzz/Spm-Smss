@@ -1,3 +1,5 @@
+# APALU DONGO MAU DECRYPT TOLOL LU,BISA NYA DECRYPT GABISA BUAT SC SENDIRI
+# TOLOL BEGO DONGO, MATI NYA NGGAK TENANG TOLOL BEGO DONGO
 _A='base64';from Crypto.Cipher import AES;from Crypto.Util.Padding import unpad,pad;from Crypto.Protocol.KDF import PBKDF2
 passphrase='73e4fa1cb42255bf0c687603e34d8c0c'
 salt=__import__(_A).b64decode("r46hLfgxSd0Vl76xD8UmdQ==")
